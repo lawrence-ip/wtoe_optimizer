@@ -1,0 +1,43 @@
+class_id,class_name,density_kg_m3,lhv_mj_kg
+0,Aerosols,400,0
+1,Aluminum can,100,0
+2,Aluminum caps,200,0
+3,Cardboard,100,16
+4,Cellulose,200,14
+5,Ceramic,900,0
+6,Combined plastic,300,35
+7,Container for household chemicals,100,46
+8,Disposable tableware,100,25
+9,Electronics,300,5
+10,Foil,500,0
+11,Furniture,200,15
+12,Glass bottle,400,0
+13,Iron utensils,400,0
+14,Liquid,1000,0
+15,Metal shavings,500,0
+16,Milk bottle,100,46
+17,Organic,300,5
+18,Paper bag,80,14
+19,Paper cups,80,18
+20,Paper shavings,80,14
+21,Paper,300,14
+22,Papier mache,150,14
+23,Plastic bag,50,46
+24,Plastic bottle,80,26
+25,Plastic can,150,35
+26,Plastic canister,120,46
+27,Plastic caps,400,44
+28,Plastic cup,80,40
+29,Plastic shaker,150,44
+30,Plastic shavings,150,35
+31,Plastic toys,250,35
+32,Postal packaging,60,30
+33,Printing industry,300,15
+34,Scrap metal,600,0
+35,Stretch film,100,46
+36,Tetra pack,200,21
+37,Textile,150,18
+38,Tin,400,0
+39,Unknown plastic,200,35
+40,Wood,400,17.5
+41,Zip plastic bag,50,46
